@@ -2,7 +2,7 @@
 - 🎓 Master of Science (MS) in Electrical and Computer Engineering (Machine Learning) from North Carolina State University.
 - 📚 Constantly exploring and enhancing skills in the field of Machine Learning, Computer Vision, and Machine Vision.
 - ⚡️ Passionate about leveraging technology to solve real-world problems.
-- 📖 I'm currently learning Langchain and LLMs.
+- 📖 I'm currently learning LLMs and RAG pipelines.
 
 ## 🤝Socials
 - 📧 Reach out to me: akhanna3@ncsu.edu
