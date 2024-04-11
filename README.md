@@ -1,6 +1,6 @@
 # 👋🏼About Me:
 - 🎓 Master of Science (MS) in Electrical and Computer Engineering (Machine Learning) from North Carolina State University.
-- 📚 Constantly exploring and enhancing skills in the field of Machine Learning, Computer Vision, and Machine Vision.
+- 📚 Constantly exploring and enhancing skills in Data Science & Analytics, Machine Learning, and Machine Vision.
 - ⚡️ Passionate about leveraging technology to solve real-world problems.
 - 📖 I'm currently learning LLMs and RAG pipelines.
 
